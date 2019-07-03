@@ -14,4 +14,5 @@ Programa Silvio Santos é um programa de televisão brasileiro, no formato de au
 É generalizado como um programa de quadros sequenciais de brincadeiras, gincanas, disputas musicais, pegadinhas e outros. Tornou-se a principal atração do SBT aos domingos, e é considerado[por quem?] o programa mais tradicional da televisão brasileira.
 
 ## Trabalhando com links
-[link 01] (http://www.google.com.br "Clique e acesse agora!")
+[Link 01](http://www.google.com.br "Clique e acesse agora!")
+
