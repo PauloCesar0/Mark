@@ -21,3 +21,15 @@ Programa Silvio Santos é um programa de televisão brasileiro, no formato de au
 1. Item 01
 1. Item 02
 1. Item 03
+
+## Trabalhando com bloco de Códigos 
+
+```
+
+Quando não quero identificar a linguagem com a qual estou trabalhando.
+```
+
+```javascript 
+    var s = "Atribuindo valores a uma variavel";
+    alert (s);
+```
