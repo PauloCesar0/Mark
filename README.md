@@ -34,11 +34,10 @@ Quando não quero identificar a linguagem com a qual estou trabalhando.
     alert (s);
 ```
 
-Unidade Curricular |Nome 
-`````````````````` |````                
-        9          |Logica de Programação
-        10         |C#
-        11         |Dev Web
-        12         |PHP
-        13         |Android
-                   
+Unidade Curricular | Nome
+------------------ | ----
+9                  | Lógica de Programação
+10                 | C#
+11                 | Dev Web
+12                 | PHP
+13                 | Android
