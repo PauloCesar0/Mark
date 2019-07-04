@@ -41,3 +41,9 @@ Unidade Curricular | Nome
 11                 | Dev Web
 12                 | PHP
 13                 | Android
+
+## Trabalhando com lista não ordenadas 
+
+* Item 01
+- Item 02
++ Item 03
