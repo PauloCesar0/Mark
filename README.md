@@ -33,3 +33,12 @@ Quando não quero identificar a linguagem com a qual estou trabalhando.
     var s = "Atribuindo valores a uma variavel";
     alert (s);
 ```
+
+Unidade Curricular |Nome 
+`````````````````` |````                
+        9          |Logica de Programação
+        10         |C#
+        11         |Dev Web
+        12         |PHP
+        13         |Android
+                   
